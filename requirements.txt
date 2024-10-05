@@ -1,0 +1,6 @@
+gradio==3.40.1
+numpy==1.23.5
+matplotlib==3.5.3
+pandas==1.5.2
+plotly==5.15.0
+Pillow==9.4.0
